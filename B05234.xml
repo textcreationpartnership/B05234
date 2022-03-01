@@ -1,0 +1,174 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Charles, by the grace of God, king of Great Britain, France, and Ireland, defender of the faith, to the provotst and bailyes of our burgh of North Berwick ... Forasmuch as our Convention of Estates, holden at Edinburgh, the fourth day of August ...</title>
+            <author>Scotland. Sovereign (1649-1685 : Charles II)</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1665</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 6 KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B05234</idno>
+            <idno type="STC">Wing S1190</idno>
+            <idno type="STC">ESTC R183966</idno>
+            <idno type="EEBO-CITATION">53981716</idno>
+            <idno type="OCLC">ocm 53981716</idno>
+            <idno type="VID">180341</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B05234)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 180341)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1641-1700 ; 2826:29)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Charles, by the grace of God, king of Great Britain, France, and Ireland, defender of the faith, to the provotst and bailyes of our burgh of North Berwick ... Forasmuch as our Convention of Estates, holden at Edinburgh, the fourth day of August ...</title>
+                  <author>Scotland. Sovereign (1649-1685 : Charles II)</author>
+                  <author>Scotland. Convention of Estates.</author>
+               </titleStmt>
+               <extent>1 sheet ([1] p.)   </extent>
+               <publicationStmt>
+                  <publisher>Printed by Evan Tyler,</publisher>
+                  <pubPlace>[Edinburgh :</pubPlace>
+                  <date>1665]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Title from first lines of text.</note>
+                  <note>Imprint suggested by Wing.</note>
+                  <note>Royal arms at head of text; initial letter.</note>
+                  <note>A form letter, with blanks in text filled in ms.</note>
+                  <note>Dated at end: Given under Our Signet at Edinburgh, the fourth day of August, and of Our Reign, the seventeenth year, one thousand six hundred and sixty five years.</note>
+                  <note>Reproduction of the original in the National Library of Scotland.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Taxation --  Law and legislation --  Scotland --  Early works to 1800.</term>
+               <term>Scotland --  Politics and government --  1660-1688 --  Sources.</term>
+               <term>North Berwick (Scotland) --  History --  17th century --  Sources.</term>
+               <term>Broadsides --  Scotland --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2008-10</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2008-12</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-05</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2009-05</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:180341:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 4 -->
+            <head>
+               <figure>
+                  <p>C R</p>
+                  <p>HONI <gap reason="illegible" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> 
+                     <gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>VI MAL Y PENS<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>
+                  </p>
+                  <figDesc>royal blazon or coat of arms</figDesc>
+               </figure>
+            </head>
+            <opener>
+               <signed>
+                  <hi>
+                     <seg rend="decorInit">C</seg>HARLES,</hi> by the grace of GOD, King of <hi>Great Britain, France</hi> and <hi>Ireland,</hi> Defender of the Faith,</signed>
+               <salute>To the Provoſt and Bailyes of Our Burgh of <add rend="onBlank">Northbervik....</add> And to Our Lovits,  <gap reason="blank" extent="1 span">
+                     <desc>〈1 span left blank〉</desc>
+                  </gap>  Meſſengers, Our Sheriffs, in that part, conjunctly and ſeverally ſpecially con<g ref="char:EOLhyphen"/>ſtitute, Greeting:</salute>
+            </opener>
+            <p>Foraſmuch, as Our Convention of Eſtates, holden at <hi>Edinburgh,</hi> the fourth of <hi>Auguſt,</hi> one thouſand ſix hundred and ſixty five years, taking to their conſideration, the great bleſſings this Our ancient Kingdom doth enjoy, under Our Royal Government, being thereby delivered from all the miſeries and bondage that doth accompany the Iron Rod of an inſolent Uſurpation, and poſſeſſed of all the liberties and priviledges of a free People, living under Our Royal Scepter, and that by a full and free exerciſe of their Religion, with all ſutable encouragements thereunto, by an equal and due adminiſtration of Juſtice, and peaceable and ſecure enjoyment of their Laws, Rights and Properties: Find themſelves obliged in con<g ref="char:EOLhyphen"/>ſcience, honour and gratitude, to embrace every occaſion, whereby they may witneſs to the World their juſt reſentments thereof, and their readineſs to contribute their Lives, for the maintaining and advancing of Our Royal Authority, Power and Greatneſs; under the Protection whereof, the Peace, Freedom and Intereſt of this Our Kingdom, and Subjects thereof, can only be ſecured. And un<g ref="char:EOLhyphen"/>derſtanding, that We are now engaged in a War, with the Inhabitants of the <hi>United Provinces,</hi> for the maintenance of Our Honour, and the Peace and Trade of Our Kingdom; and that thereby a new opportunity is offered to them, to make good their Profeſſions of their zeal and affection to Our ſervice: Therefore, the ſaids Eſtates of Our Kingdom, in a due ſenſe of Our Honour and Intereſt, and of their own duty, Do, with humble, loy<gap reason="illegible: damage" extent="2 letters">
+                  <desc>••</desc>
+               </gap> and cheerful <unclear>Hearts</unclear>, for themſelves and in Name of the whole Kingdom, whom they do re<g ref="char:EOLhyphen"/>preſent, make humble and free tender to Us of a Taxation, which is to be impoſed, collected and payed at the five terms following, <hi>viz.</hi> For the Barrons and Freeholders parts of the ſame Taxation, fourty ſhillings money yearly to be uplifted off every pound Land of old extent, within this Our Kingdom, pertaining to Dukes, Marqueſſes, Earles, Viſcounts, Lords, Barrons, Freeholders and Fewers of Our Proper-lands, holden by them immediatly of Us; Excepting the Shires of <hi>Lanerk, Air, Renfrew, Dumbartoun, Bute, Argyle, Wigtoun, Dumfriſe,</hi> and <hi>Peebles,</hi> with the Stewartries and Baileries lying within the ſame, who by reaſon of their high Retours, are to be taxt only to two Merks upon ilk Pound-land of old extent, in manner mentioned in Our ſaid Act of Convention, and to be payed by them at each one of the five Termes following, <hi>viz.</hi> At Whitſunday next to come, 1666. years, as for the firſt Term. At Whitſunday, 1667. as for the ſecond. At Whitſunday, 1668. as for the third. At Whitſunday, 1669. as for the fourth. And at Whitſunday, 1670. as for the fifth and laſt Term. And for In-bringing of the <add rend="onBlank">fyft</add> Termes payment of Our Burghs part of the ſame Taxation, Our other Letters are directed, charging the Provoſts and Bailyes of ilk Burgh, to make payment of the Taxt and Stent thereof, To <add rend="onBlank">our <gap reason="illegible" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> and <gap reason="illegible" extent="2 words">
+                     <desc>〈◊◊〉</desc>
+                  </gap> Cusigne and Counſellor <gap reason="illegible" extent="2 words">
+                     <desc>〈◊◊〉</desc>
+                  </gap> of — Hamilton <gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </add> Our Collector General, appointed by Us for receiving the ſame, his Deputes and Officers in his Name, having his Power to receive the ſame, at the ſaid Feaſt and Term of Whitſunday, 1660; under the pain of Rebellion, and putting of them to Our Horn, <hi>&amp;c.</hi> For whoſe relief,</p>
+            <p>
+               <seg rend="decorInit">O</seg>UR WILL IS, And we charge you ſtraitly and commands, that incontient, theſe Our Letters ſeen, ye paſs, and in Our Name and Authority, command and charge, the Provoſt, Bailyes and Council of Our ſaid Burgh of  <gap reason="blank" extent="1 span">
+                  <desc>〈1 span left blank〉</desc>
+               </gap>  to conveen and elect certain perſons, to ſtent their Neighbour; and the ſaid election being made, That ye charge the perſons elected, to accept the charge upon them; In ſetting down of the ſaid Stent upon the Burgeſſes and Inhabitants of Our ſaid Burgh, and ſo to make and ſet down an Stent Roll thereupon, as effeires, within twenty four hours after they be char<g ref="char:EOLhyphen"/>ged by you thereto, under the pain of Rebellion, and putting of them to Our Horn; And if they, failȝie, to denounce and eſcheat, <hi>&amp;c.</hi> And ſicklike, the ſaid Stent Roll being made and ſet down as ſaid is, That ye, in Our ſaid Name and Authority, command and charge the Burgeſſes, Indwellers and Inhabitants within Our ſaid Burgh, to make payment of their part of the ſaid Stent to you Our ſaid Provoſt and Bailyes, conform to the Taxt Roll to be given out thereupon, within three dayes next after they be charged by you thereto, under the pain of Rebellion, and putting of them to Our Horn. And if they failȝie, the ſaids three dayes being by<g ref="char:EOLhyphen"/>paſt, that ye incontinent thereafter denounce the diſobeyers Our Rebels, and put them to Our Horn, and eſcheat and in-bring all their moveable Goods to Our uſe, for their contemption. And if need be, that ye Our ſaid Provoſt and Bailyes poynd and diſt<g ref="char:EOLhyphen"/>reinȝie therefore, as ye ſhall think moſt fit, according to Juſtice.</p>
+            <closer>
+               <dateline>Given under Our Signet at <hi>Edinburgh,</hi> 
+                  <date>the fourth day of <hi>Auguſt,</hi> and of Our Reign, the ſeventeenth year, one thouſand ſix hundred and ſixty five years.</date>
+               </dateline> 
+               <signed>Per Actum Conventionis. <add>Thomas Hay<gap reason="illegible" extent="2+ letters">
+                        <desc>••…</desc>
+                     </gap>
+                  </add>
+               </signed>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>
